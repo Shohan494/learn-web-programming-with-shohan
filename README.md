@@ -67,10 +67,10 @@ I am managing a group of Alredy 50 people who are doing project-based work with 
 
 After a few years of overwork here and there in my city, I finally got a good offer from a Dutch company. I've been here for 2 years remotely. Continuing here as a Business Automation Lead. Best of luck to all.
 
-#Note: I'll talk to everyone who knocks in time. Thanks.
+#### Note: I'll talk to everyone who knocks in time. Thanks.
 
 
-PLEASE KINDLY SUBMIT THIS FORM IF YOU FEEL REALLY INTERESTED TO MAKE A TEAM FOR LEARNING.
+#### PLEASE KINDLY SUBMIT THIS FORM IF YOU FEEL REALLY INTERESTED TO MAKE A TEAM FOR LEARNING.
 ===========================================
 
 https://forms.gle/PAnhvQmLhyp4eWd29
