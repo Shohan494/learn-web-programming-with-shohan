@@ -62,9 +62,9 @@ Lately, those who really want to understand Object Oriented PHP and are very kee
 
 Although I may not be such a great developer, it is one of my great will and desire to share some development guidances and test myself. It can be started from the very beginning of the next month, after my short discussion with the most interested ones. The jounrey will not be boring for sure: D
 
-Please do not retire, do not spend time, be active in the group task or do not know the object oriented PHP clear, or know Laravel well, do not participate in this form Philip, prepare yourself first. Other interested people can give a quick knock :)
+#### Please do not fill out the form kindly if you are not a free person or more specifically aren’t really interested to spend some time on learning, or not interested to participate actively in the group project tasks or do not know the object oriented PHP clear, or already know Laravel and php very well. Kindly do not participate in this form fillup, prepare yourself first. Other interested people can give a quick knock :)
 
-I am managing a group of Alredy 50 people who are doing project-based work with object oriented PHP and are preparing for Laravel.
+I am already managing a group of 50 people who are doing project-based work with object oriented PHP and are preparing for Laravel.
 
 After a few years of overwork here and there in my city, I finally got a good offer from a Dutch company. I've been here for 2 years remotely. Continuing here as a Business Automation Lead. Best of luck to all.
 
