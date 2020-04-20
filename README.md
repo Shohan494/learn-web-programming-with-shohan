@@ -1,6 +1,7 @@
 # learn-web-programming-with-shohan
 
-## Welcome:blush:, last month I found out something 
+## Welcome:blush:
+Last month I found out something 
 amazing, I feel great sharing and talking about my 
 development learning experiences and mostly I am in 
 love with talking about techs and learning and 
