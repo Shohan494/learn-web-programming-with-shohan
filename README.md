@@ -1,6 +1,13 @@
 # learn-web-programming-with-shohan
 
-## Welcome:blush:, last month I found out something amazing, I feel great sharing and talking about my development learning experiences and mostly I am in love with talking about techs and learning and guiding with new people who are just amazing and passionate about learning stuffs about web programming. Sorry about the long sentence, sometimes I am just unable to control my excitement 
+## Welcome:blush:, last month I found out something 
+amazing, I feel great sharing and talking about my 
+development learning experiences and mostly I am in 
+love with talking about techs and learning and 
+guiding new people who are just amazing and 
+passionate about learning stuffs about web 
+programming. Sorry about the long sentence, 
+sometimes I am just unable to control my excitement. 
 
 :smile: :smile:
 
@@ -8,6 +15,9 @@
 ===========================================
 
 https://forms.gle/PAnhvQmLhyp4eWd29
+
+For my native people : Bengali
+===============================
 
 লারাভেল আমার প্যাশন, আমার অনেক বড় কিছু করার ইচ্ছা লারাভেল নিয়ে। সেই লারাভেল ৪ থেকে এর সাথে আছি, নানান অভিজ্ঞতা নানান কাজে লারাভেল আমার সাথে জড়িয়ে গেছে দারুনভাবে।
 
@@ -36,8 +46,10 @@ https://forms.gle/PAnhvQmLhyp4eWd29
 https://forms.gle/PAnhvQmLhyp4eWd29
 :heart: </code>
 
+For Every one else :
+=====================
 
-Laravel and web programming and learning and doing development is my passion, my desire is to do something great about web programming sector .I have been working with php, codeigniter and laravel for quiet a long time, since 2014. Laravel has been involved practically with me in many different experiences.
+Laravel, php, python, server, github, web programming and learning and doing development is my passion, my desire is to do something great in web programming section .I have been working with php, codeigniter and laravel for quiet a long time, since 2014. Laravel has been involved practically with me in many different experiences.
 
 Started my journey with Jeffrey Way's php tutorial, though before that time I was wondering and was not really confident if there would be anything possible for me do do a program or build something. After then CodeIgniter was a great experience. Then Taylor Ottwel's amazing frameowork laravel came into my life <3
 
